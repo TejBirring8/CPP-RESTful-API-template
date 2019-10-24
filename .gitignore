@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore CLion project folder
+.idea
+
+# Ignore CMake build output directories
+cmake-*
