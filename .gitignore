@@ -5,4 +5,7 @@
 .idea
 
 # Ignore CMake build output directories
-cmake-*
+*cmake-*
+
+# Ignore build output directories
+*build/*
